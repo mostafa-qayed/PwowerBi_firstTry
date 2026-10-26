@@ -1,2 +1,3 @@
 أول تجربة لبرنامج power bi 
-[screenshot](sales.jpg)
+-----
+[screenshot] (sales.jpg)
